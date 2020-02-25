@@ -46,7 +46,7 @@ pip install flask
 
 
 #### Map
-![Alt text](https://github.com/SlavkoPrytula/Map_LR_2/blob/master/Screenshot_20200218_153418.png?raw=true "Title")
+![Alt text](https://github.com/SlavkoPrytula/Friends-Locations-With-Twitter/blob/master/Screenshot_20200225_211031.png?raw=true "Title")
 
 
 
