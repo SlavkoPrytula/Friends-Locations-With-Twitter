@@ -1,0 +1,13 @@
+<head>
+    <title>Flask app</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  </head>
+<body>
+
+<form class="form" autocomplete="off" spellcheck="false" method="post">
+                <label for="name">Write down your answer</label>
+                <input type="text" class="form-control" autofocus="autofocus" name="answer">
+                <button onclick="{{ url_for('map') }}">Click me</button>
+</form>
+
+
